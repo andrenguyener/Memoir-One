@@ -1,0 +1,35 @@
+{
+	"name": "Memoir-One",
+	"displayName": "Memoir One",
+	"description": "Fork of Binarify/OneDark-Pro customized to my liking",
+	"version": "1.0.0",
+	"publisher": "andrenguyener",
+	"homepage": "https://github.com/andrenguyener/Memoir-One",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/andrenguyener/Memoir-One"
+	},
+	"categories": [
+		"Themes"
+	],
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Memoir One",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Memoir-One.json"
+			}
+		]
+	},
+	"icon": "icon.png",
+	"keywords": [
+		"memoir one",
+		"one dark",
+		"one dark pro",
+		"theme",
+		"atom"
+	]
+}
