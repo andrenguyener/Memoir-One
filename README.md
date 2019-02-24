@@ -1,4 +1,4 @@
-# Egoist One
+# Memoir One
 
 My fork of [One Dark Pro](https://github.com/Binaryify/OneDark-Pro). Customized for me. The extension can be found [here]() or installed with `ext install Egoist-One`.
 
